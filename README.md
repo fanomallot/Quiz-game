@@ -1,2 +1,1 @@
-# doctor
-data base
+# quiz game made with vue 3
